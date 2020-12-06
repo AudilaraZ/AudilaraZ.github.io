@@ -53,4 +53,11 @@ fonctionnalités.
 5. Développement du wireframe (en se basant sur 3, )
 
     **But** : Décrire la disposition et la taille des composants des pages de la solution, décrire les interactions possibles
- 
+
+**Quels logiciels utiliser ?**
+
+ Il existe de nombreux outils pour réaliser des travaux en UX. 
+ Les deux meilleures, à mon avis, sont Adobe XD et Figma.
+ Ces deux outils permettent de maquetter, animer, prototyper, collaborer et bien plus encore. Je les recommandes vivement!
+
+ {{< figure src="/images/xd_figma.png" title="" >}}
