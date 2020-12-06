@@ -9,8 +9,6 @@ categories: ["Design"]
 tags: ["Conception", "Marketing"]
 ---
 
-**L'e-commerce**
-
 À l'approche des fêtes de Noël, l'e-commerce est un cannal de plus en plus privilégié pour faire ces achats, d'autant plus cette année 2020, suite à la crise sanitaire du coronavirus. Nombreux sont ceux qui ne souhaitent ne pas mettre pied dans un magasin et qui préfèrent naviguer de site en site à la recherche d'un petit présent qui ferait plaisir.
 Mais bien souvent, les site e-commerce ne sont pas optimisé de la meilleure façon, le client abondonne son panier d'achat.
 

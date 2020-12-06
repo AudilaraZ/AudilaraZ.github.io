@@ -9,8 +9,6 @@ categories: ["Expérience"]
 tags: ["Interface", "Outils"]
 ---
 
-**L'eye-tracking**
-
 L'Eye-tracking quand on le teste pour la première fois c'est une expérience incoryable lors de laquelle on est émerveillé. C'est ce que relate Ulrica Wikstrom dans son article "Is eye tracking a good fit for your technology?" paru sur le site de Tobii.
 Elle parle, aussi, que le suivit oculaire peut résoudre de nombreux problèmes, en exploitant les donnée qu'il génère. 
 L'eye tracking a en effet permis de faire naître de nombreuses inovations comme :
