@@ -18,3 +18,13 @@ Voici donc mon Ikigai, représentant ce à quoi j’aspire dans ma vie.
 
 {{< figure src="/images/ikigai_labveiltec.png" title="Mon Ikigai" >}}
 
+**Ce dont je vais vous parler**
+
+Comme vous avez pu le comprendre, je vais vous parler de tout ce qui peut graviter autour de l’UX/UI.
+Ainsi, mes grands axes sont :
+Mise en page | Design | Collaboration | Recherche | Interactivité | Expérience
+Et caché en dessous vous pourrez retrouver des sujets parlant de :
+Pictogrammes | Erreurs | Typographie | Interfaces | Interactions | Animation | Conception | Ergonomie | Design | Étapes | Marketing | Outils | Littérature | Hiérachie
+
+
+
