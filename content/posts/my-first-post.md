@@ -54,4 +54,4 @@ fonctionnalités.
  Les deux meilleures, à mon avis, sont Adobe XD et Figma.
  Ces deux outils permettent de maquetter, animer, prototyper, collaborer et bien plus encore. Je les recommande vivement !
 
- {{< figure src="/images/xd_figma.png" title="" >}}
+ {{< figure src="/images/xd_figma.png" title="Adobe XD et Figma" >}}
