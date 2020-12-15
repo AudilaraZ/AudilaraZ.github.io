@@ -32,7 +32,7 @@ Pictogrammes | Erreurs | Typographie | Interfaces | Interactions | Animation | C
 Voici sources préférées :
 
 Sur Feedly (https://feedly.com/), agrégateur qui me permet de réunir, sur la plateforme, les dernières actualités de sites que j’ai choisi de suivre selon la thématique de UX/UI Design.
-Grâce à Feedly je suis comme site, notamment : UX_Republic, Newflux, UI Garage ou encore UX Design World.
+Grâce à Feedly je suis comme site, notamment : UX-Republic, Newflux, UI Garage ou encore UX Design World.
 
 1. UX-Republic (https://www.ux-republic.com/) permet de m’informer sur les comportements des utilisateurs, leurs besoins et leurs motivations. C’est un site centré sur les problématiques utilisateurs.
 
