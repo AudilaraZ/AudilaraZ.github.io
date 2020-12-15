@@ -34,13 +34,13 @@ Voici sources préférées :
 Sur Feedly (https://feedly.com/), agrégateur qui me permet de réunir, sur la plateforme, les dernières actualités de sites que j’ai choisi de suivre selon la thématique de UX/UI Design.
 Grâce à Feedly je suis comme site, notamment : UX_Republic, Newflux, UI Garage ou encore UX Design World.
 
-    UX-Republic (https://www.ux-republic.com/) permet de m’informer sur les comportements des utilisateurs, leurs besoins et leurs motivations. C’est un site centré sur les problématiques utilisateurs.
+1. UX-Republic (https://www.ux-republic.com/) permet de m’informer sur les comportements des utilisateurs, leurs besoins et leurs motivations. C’est un site centré sur les problématiques utilisateurs.
 
-    Newflux (https://newflux.fr/) me donne la possibilité d’être au courant des dernières actualités du design.
+2. Newflux (https://newflux.fr/) me donne la possibilité d’être au courant des dernières actualités du design.
 
-    UI Garage (https://uigarage.net/) offre l’opportunité de trouver des inspirations et modèles d’interface utilisateur quotidiens pour le Web, les mobiles et les tablettes.
+3. UI Garage (https://uigarage.net/) offre l’opportunité de trouver des inspirations et modèles d’interface utilisateur quotidiens pour le Web, les mobiles et les tablettes.
 
-    UX Design World (https://uxdworld.com/) parle de l’histoire de l’UX, la convivialité et la conception de produits.
+4. UX Design World (https://uxdworld.com/) parle de l’histoire de l’UX, la convivialité et la conception de produits.
 
 Prototypr (https://prototypr.io/home/) est mon site favori. Les dernières actualités quotidiennes de la conception, des didacticiels ou encore des offres spéciales pour des outils de conception sont très clairement expliquées. De nombreuses problématiques sont également habilement exposées.
 
